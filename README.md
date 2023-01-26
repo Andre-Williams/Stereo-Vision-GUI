@@ -8,5 +8,6 @@ Using these extracted parameters each frame of the aircraft approach video data 
 The GUI was also used to trigger the camera system to capture pictures or initiate video recording.
 
 open source PyQT5 was the chosen python library used to create the GUI
+
 open source OpenCV was the chosen python library used for image and video processing
 
