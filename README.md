@@ -3,7 +3,7 @@ This Graphical User interface (GUI) was developed to facilitate the the process 
 
 The GUI links to functions that automates the process of calibrating the FLIR camera system by feeding it a series of calabration images from which the intrinsic and extrinsic paramters of the stereo-camera system can be detemined.
 
-Using these extracted parameters each frame of the aircraft approach video data is rectified to allow for the application of stereo-vision to determine the depth/distance (x, y, z) of the approaching aircraft.
+Using these extracted parameters the rectification of each frame of the aircraft approach video data is automated to allow for the application of stereo-vision to determine the depth/distance (x, y, z) of the approaching aircraft per frame.
 
 The GUI was also used to trigger the camera system to capture pictures or initiate video recording.
 
